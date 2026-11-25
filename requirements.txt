@@ -1,0 +1,4 @@
+pandas==2.3.3
+pywin32==312
+python-dotenv==1.2.3
+google-genai==2.25.0
