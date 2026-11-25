@@ -52,3 +52,41 @@ Beta portfolio software, not production-certified. Tested with Sales and HR data
 
 ## License
 No open-source license has been selected yet. The owner should choose one before granting reuse rights.
+---
+
+## Dashboard Demonstrations
+
+### Executive Sales Dashboard
+
+![Sales Dashboard](screenshots/sales_dashboard.png)
+
+**Key highlights:**
+
+- Total Sales: 5,005,259
+- Total Profit: 893,913.62
+- Total Orders: 100
+- Total Quantity: 489
+- Four native Excel charts
+- Three interactive slicers
+- Dynamic KPI calculations
+
+### HR Executive Dashboard
+
+![HR Dashboard](screenshots/hr_dashboard.png)
+
+**Key highlights:**
+
+- Total Employees: 200
+- Total Monthly Salary: 12,378,000
+- Average Monthly Salary: 61,890
+- Average Performance Rating: 2.94
+- Department-wise employee and salary analysis
+- Interactive department, location and employment status slicers
+
+## Multi-Dataset Compatibility
+
+Both dashboards were automatically generated using the same Python engine, without requiring dataset-specific code modifications.
+
+The project demonstrates the integration of Generative AI, Python, data analytics and native Microsoft Excel automation.
+
+---
